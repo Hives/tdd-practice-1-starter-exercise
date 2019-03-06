@@ -1,3 +1,3 @@
 def remember_name(name)
-    'Name "Billy" remembered!'
+    "Name \"#{name}\" remembered!"
 end
