@@ -1,2 +1,2 @@
-def remember_name
+def remember_name(name)
 end
